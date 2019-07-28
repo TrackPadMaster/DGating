@@ -1,0 +1,10 @@
+1250		! atom_num: Number of atoms
+100000		! tsteps: Number of dt's we'll take
+200		! U_in: Potential in terms of Er
+10		! GammaP_in: Scattering rate in terms of wr
+1.5		! phi: phase difference between w1 and w2
+0.05		! dt_in: time step before adjustment by gamma
+0.74		! driveratio: w1 in terms of vibrational frequency
+.5		! A: scaling value for potential
+40		! B: scaling value for driving force
+2.33333 !	pqratio
